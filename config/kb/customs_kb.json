@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kb-001",
+    "title": "HS code classification — general interpretive approach",
+    "category": "hs_code",
+    "source": "General Rules for the Interpretation of the Harmonized System, overview note",
+    "tags": ["hs code", "classification", "harmonized system", "tariff"],
+    "content": "Classifying a product under the Harmonized System starts with the heading text and any relevant section or chapter notes, applied in order: first match the four-digit heading that most specifically describes the goods, then the six-digit subheading, then the national statistical digits. Essential character controls when goods could fit more than one heading — for example, a composite article is classified as if it consisted of the material or component that gives it its essential character. Advertising claims or the exporter's own label are not controlling; the objective composition and function of the goods are."
+  },
+  {
+    "id": "kb-002",
+    "title": "Advance classification ruling (事前教示) service",
+    "category": "hs_code",
+    "source": "Advance ruling (事前教示) program overview, customs administration guidance",
+    "tags": ["hs code", "事前教示", "advance ruling", "classification"],
+    "content": "An importer or their agent may request an advance classification ruling before filing a declaration, submitting a product description, composition, intended use, and supporting samples or literature. A written ruling states the applicable HS code and is binding for declarations that match the submitted facts, reducing the risk of a post-entry reclassification dispute. Rulings are tied to the facts presented — a material change in composition, function, or intended use requires a fresh request rather than reliance on the earlier ruling."
+  },
+  {
+    "id": "kb-003",
+    "title": "NACCS import declaration — required data elements",
+    "category": "naccs",
+    "source": "NACCS import declaration data-element guidance, overview note",
+    "tags": ["naccs", "import declaration", "customs entry", "clearance"],
+    "content": "An import declaration filed through NACCS must identify the importer, the HS code and quantity/value of each line item, the country of origin, the terms of sale, and the bonded area where the goods are held pending release. Supporting documents referenced in the declaration — the commercial invoice, packing list, and bill of lading — must be retrievable on request even though NACCS itself only carries the declaration data elements, not full document images, in most filing modes. Errors in the declared value or HS code are corrected through an amendment before release rather than after, wherever the discrepancy is caught pre-release."
+  },
+  {
+    "id": "kb-004",
+    "title": "NACCS declaration amendment and timing",
+    "category": "naccs",
+    "source": "NACCS entry amendment procedure, overview note",
+    "tags": ["naccs", "amendment", "export declaration", "timing"],
+    "content": "A NACCS declaration may be amended before customs completes examination and release; once release has been granted, a correction instead follows the post-entry correction or voluntary disclosure route rather than a simple amendment. Export declarations generally must be filed before the goods are loaded for shipment, and the declared HS code, quantity, and destination must match the actual shipment — a mismatch discovered at the bonded area can delay loading until the declaration is corrected."
+  },
+  {
+    "id": "kb-005",
+    "title": "Incoterms 2020 — how the eleven terms allocate risk and cost (paraphrase)",
+    "category": "incoterms",
+    "source": "Public paraphrase/summary of Incoterms 2020 concepts — NOT the ICC rules text; consult the official ICC publication for the authoritative wording",
+    "tags": ["incoterms", "fob", "cif", "exw", "dap", "ddp", "shipping term"],
+    "content": "Incoterms 2020 is a set of eleven three-letter trade terms that describe, at a high level, where the seller's responsibility for cost and risk ends and the buyer's begins, and who arranges carriage and import/export clearance. Terms like EXW and FCA hand off risk and most cost close to the seller's premises or an agreed departure point; terms like CIF and CPT have the seller pay carriage (and, for CIF, minimum insurance) to a named destination while risk still transfers earlier, at loading; terms like DAP and DDP push the handoff all the way to the buyer's country, with DDP additionally putting import duty on the seller. This is a general paraphrase for orientation only — the definitive obligations, risk-transfer points, and named-place rules are set out in the official ICC Incoterms 2020 text, which any binding contract should reference directly."
+  },
+  {
+    "id": "kb-006",
+    "title": "Incoterms 2020 — choosing a term for containerized ocean freight (paraphrase)",
+    "category": "incoterms",
+    "source": "Public paraphrase/summary of Incoterms 2020 guidance for container shipments — NOT the ICC rules text",
+    "tags": ["incoterms", "container", "ocean freight", "fca", "cip"],
+    "content": "For containerized cargo handed to a carrier at a container yard or terminal rather than loaded directly over a ship's rail, trade guidance generally favors the terms designed around a named place of delivery to a carrier — such as FCA for a cost/risk split near origin, or CIP where the seller also arranges carriage and higher-level insurance to the destination — over the traditional on-board terms like FOB or CIF, which describe a risk-transfer point (the ship's rail) that does not correspond to how a container is actually handed over. This is a general orientation note, not a substitute for the official ICC Incoterms 2020 text or contract-specific legal advice."
+  },
+  {
+    "id": "kb-007",
+    "title": "AEO certification — categories and general eligibility",
+    "category": "aeo",
+    "source": "AEO (Authorized Economic Operator) certification overview, customs administration guidance",
+    "tags": ["aeo", "authorized economic operator", "certification", "eligibility"],
+    "content": "AEO certification is available to importers, exporters, customs brokers (通関業者), warehouse operators, and other supply-chain roles that meet compliance-history and security-management criteria. A compliant record of customs filings over a preceding period, an internal compliance program with documented procedures, and physical/data security controls over cargo and records are common threads across the certification categories, though the specific documentation requested varies by operator type. Certified operators typically receive streamlined clearance treatment, such as reduced physical examination rates or simplified declaration procedures, in exchange for the ongoing compliance obligations."
+  },
+  {
+    "id": "kb-008",
+    "title": "AEO application — documentation and compliance-program expectations",
+    "category": "aeo",
+    "source": "AEO application documentation guidance, overview note",
+    "tags": ["aeo", "application", "compliance program", "broker"],
+    "content": "An AEO application generally assembles an organizational chart showing who owns customs compliance, a written internal-control procedure for classification and valuation, records of past declaration accuracy, and evidence of premises and data security appropriate to the operator's role. A customs broker (通関業者) applicant additionally documents its client-facing compliance checks and staff training program. Incomplete or inconsistent internal procedures — for example, a written policy that does not match what staff actually do — are a common reason an application is returned for revision rather than approved on the first submission."
+  },
+  {
+    "id": "kb-009",
+    "title": "関税法 — customs value determination, general approach",
+    "category": "customs_law",
+    "source": "関税法 (Customs Act) customs valuation overview, general summary",
+    "tags": ["関税法", "customs law", "customs valuation", "duty"],
+    "content": "Under 関税法, the customs value of imported goods is primarily the transaction value — the price actually paid or payable for the goods when sold for export, adjusted for specified additions such as certain commissions, packing costs, and assists, and specified exclusions such as separately itemized post-import charges. Where the transaction value method cannot be used — for example, because there is no sale, or the buyer and seller are related in a way that affected the price — alternative valuation methods apply in a set order, moving from the value of identical or similar goods to computed or deductive value approaches."
+  },
+  {
+    "id": "kb-010",
+    "title": "関税法 — post-entry duty correction and voluntary disclosure",
+    "category": "customs_law",
+    "source": "関税法 post-entry correction (修正申告) and voluntary disclosure overview, general summary",
+    "tags": ["関税法", "post-entry correction", "voluntary disclosure", "duty"],
+    "content": "When an importer discovers, after release, that a declared HS code, value, or quantity was wrong, 関税法 provides a post-entry correction (修正申告) route to pay any additional duty owed together with applicable interest. Disclosing the error voluntarily, before customs identifies it through an audit or examination, is generally treated more favorably in terms of penalty exposure than a correction prompted by a customs finding. Repeated correction filings on similar errors can also prompt customs to look more closely at an importer's internal compliance controls going forward."
+  },
+  {
+    "id": "kb-011",
+    "title": "2026 tariff-schedule revision — periodic HS code and duty-rate updates",
+    "category": "hs_code",
+    "source": "Periodic tariff-schedule revision notice, general summary (2026 cycle)",
+    "tags": ["tariff schedule", "2026", "hs code", "duty rate", "revision"],
+    "content": "Japan's tariff schedule and the underlying HS nomenclature are revised on a periodic cycle, most recently with changes effective in 2026 that split or renumbered a number of statistical-suffix lines and adjusted several conventional duty rates under trade-agreement schedules. An HS code or duty rate that was correct under a prior year's schedule can become outdated without any change in the goods themselves, so classification guidance and duty-rate lookups should always be checked against the currently effective schedule — not last year's — before a declaration is filed."
+  }
+]
